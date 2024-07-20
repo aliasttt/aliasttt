@@ -14,10 +14,9 @@ Projects
 Here are some of the projects I've been working on:
 
 Project Name
-A brief description of the project.
+zebrashop
 
-Another Project
-A brief description of this project.
+
 
 Get in Touch
 Feel free to reach out if you want to collaborate on a project, have any questions, or just want to say hi!
