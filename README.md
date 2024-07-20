@@ -13,7 +13,7 @@ Python - General-purpose programming and scripting
 Projects
 Here are some of the projects I've been working on:
 
-Project Name
+Project Name :
 zebrashop
 
 
