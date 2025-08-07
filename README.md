@@ -1,5 +1,5 @@
 Hi there, I'm Ali 👋
-Welcome to my GitHub profile! I'm a junior web developer with a passion for creating beautiful and functional web applications.
+Welcome to my GitHub profile! I'm a web developer with a passion for creating beautiful and functional web applications.
 Here, you'll find projects that showcase my skills and interests in web development.
 
 About Me
@@ -11,12 +11,11 @@ JavaScript - Adding interactivity to websites
 Django - Building robust web applications with Python
 Python - General-purpose programming and scripting
 Projects
-Here are some of the projects I've been working on:
-
-Project Name :
-zebrashop
-
-
+Here are some of the projects I've been working on: driving license courses ,
+onlineshop ,
+printing on clothes online shop,
+zebrashop ,
+personal websitee
 
 Get in Touch
 Feel free to reach out if you want to collaborate on a project, have any questions, or just want to say hi!
